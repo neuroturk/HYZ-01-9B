@@ -290,7 +290,7 @@ print("answer:", answer.strip())
     title        = {HYZ-01-9B, A Fast, Powerful, and Multilingual Model},
     author       = {NeuroTürk},
     year         = {2026},
-    url          = {https://neuroturk.ai},
+    url          = {https://neuroturk.org},
     
 }
 ```
